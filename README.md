@@ -1,0 +1,2 @@
+# libft.a
+LIBFT.A
